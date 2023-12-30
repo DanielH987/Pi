@@ -1,4 +1,5 @@
 # Pi Approximation Lab
+An educational Java tool offering various algorithms to approximate π, ideal for learning programming and basic mathematical concepts.
 
 ## Overview
 This Java application is an educational tool for approximating the value of π (pi). It provides implementations of the Gregory-Leibniz series, Nilakantha series, and a limit-based approach to calculate pi to varying degrees of accuracy. The project serves as an exercise in basic programming concepts, the modulo operation, and simple mathematical algorithms.
